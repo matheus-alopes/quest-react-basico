@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.15b37dc9.css",
-    "main.js": "/static/js/main.39e313a8.js",
-    "index.html": "/index.html",
-    "main.15b37dc9.css.map": "/static/css/main.15b37dc9.css.map",
-    "main.39e313a8.js.map": "/static/js/main.39e313a8.js.map"
+    "main.css": "/quest-react-basico/static/css/main.15b37dc9.css",
+    "main.js": "/quest-react-basico/static/js/main.39e313a8.js",
+    "index.html": "/quest-react-basico/index.html",
+    "main.15b37dc9.css.map": "/quest-react-basico/static/css/main.15b37dc9.css.map",
+    "main.39e313a8.js.map": "/quest-react-basico/static/js/main.39e313a8.js.map"
   },
   "entrypoints": [
     "static/css/main.15b37dc9.css",
