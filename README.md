@@ -15,13 +15,13 @@ ________________________________________________
 
 ### Captura de tela
 
-![](src/images/desafio-react-base.gif)
+![](src/gif/desafio-react-base.gif)
 __________________________________________________
 
 ### Links
 
 - [Solução](https://github.com/matheus-alopes/quest-react-basico.git)
-- [GitHub Pages]()
+- [GitHub Pages](https://matheus-alopes.github.io/quest-react-basico/)
 __________________________________________________
 
 ### Feito com
